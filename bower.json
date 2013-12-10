@@ -1,0 +1,15 @@
+{
+  "name": "egrid",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ecomfe-vteam/egrid",
+  "authors": [
+    "leon <leonlu@outlook.com>"
+  ],
+  "description": "grid system less tool",
+  "main": "main.less",
+  "keywords": [
+    "grid",
+    "less"
+  ],
+  "license": "MIT"
+}
